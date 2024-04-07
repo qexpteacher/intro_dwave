@@ -1,2 +1,2 @@
-# intro_deave
+# intro_dwave
 first quantum circuits with dwave
